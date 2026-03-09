@@ -1,6 +1,5 @@
 # Environment
 .env
-.env.example
 
 # Virtual environments
 .venv/
