@@ -25,7 +25,7 @@
 
 | Pré-requis | Setup |
 |:----------|:-----|
-| Git | `git clone <url-repo>` puis `cd AtelierAgentIA` |
+| Git | `git clone https://github.com/eXalt-AI-Studio/AtelierAgentIA.git` puis `cd AtelierAgentIA` |
 | Python 3.10+ | `python -m venv .venv` |
 | Jupyter Notebook ou JupyterLab | `.venv\Scripts\activate` (Windows) |
 | | `pip install -r requirements.txt` |
